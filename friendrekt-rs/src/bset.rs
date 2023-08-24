@@ -37,6 +37,4 @@ impl<T: Clone + Eq + std::hash::Hash> FIFOCache<T> {
 	pub fn contains(&self, value: &T) -> bool {
 		self.set.contains(value)
 	}
-
-	// Other methods as needed
 }
