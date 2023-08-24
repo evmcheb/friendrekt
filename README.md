@@ -1,4 +1,5 @@
-# friend.tech mempool sniper bot
+
+# <img src="https://github.com/evmcheb/friendrekt/assets/50129617/e3ba3f2d-62fd-4c6c-a9db-df95f93b9794" width="48"> friend.tech mempool sniper bot <img src="https://github.com/evmcheb/friendrekt/assets/50129617/e3ba3f2d-62fd-4c6c-a9db-df95f93b9794" width="48">
 
 mempool sniper bot for new friend.tech joiners. 
 the story goes: 
