@@ -1,0 +1,5 @@
+reorder_imports = true
+reorder_modules=true
+fn_params_layout="Compressed"
+hard_tabs=true
+match_block_trailing_comma=true
