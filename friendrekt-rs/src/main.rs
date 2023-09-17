@@ -365,7 +365,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 						};
 
 						let binding = share_sniper
-							.snipe_many_shares(
+							.do_snipe_many_shares(
 								vec![tx.from],
 								vec![U256::from(amount)],
 								vec![U256::from(info.supply_limit)],
