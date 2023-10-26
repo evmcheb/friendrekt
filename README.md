@@ -1,8 +1,10 @@
 
 # <img src="https://github.com/evmcheb/friendrekt/assets/50129617/e3ba3f2d-62fd-4c6c-a9db-df95f93b9794" width="48"> friend.tech mempool sniper bot <img src="https://github.com/evmcheb/friendrekt/assets/50129617/e3ba3f2d-62fd-4c6c-a9db-df95f93b9794" width="48">
 
+⚠️ The mempool bug is patched so this bot will not work ⚠️
+
 mempool sniper bot for new friend.tech joiners. 
-the story goes: 
+context: 
 - op-stack is supposed to be blind mempool. but base node default config had txpool+ws rpcs open (see the [patch notes](https://github.com/ethereum-optimism/op-geth/pull/118))
 - friend.tech uses blast-api rpc
 - blast-api used base node default config for their backend nodes
